@@ -2,6 +2,10 @@
 
 This project hosts a privacy policy page for PoornaPrana. It includes the necessary HTML files and a GitHub Actions workflow for automatic deployment to GitHub Pages.
 
+## Development env
+
+- Use GitHub CodeSpaces
+
 ## Project Structure
 
 - `privacy.html`: Contains the privacy policy content formatted in HTML. This file is intended to be served as a standalone page.
